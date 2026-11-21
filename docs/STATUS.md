@@ -12,7 +12,7 @@ Phase 0 (documentation) complete. **No application code exists.** Next: Phase 1 
 
 | Task | Card | Status | Owner | Claimed at (UTC) | Risk |
 |---|---|---|---|---|---|
-| P1-1 Repo scaffolding | [card](tasks/P1-1-repo-scaffolding.md) | ready | | | low |
+| P1-1 Repo scaffolding | [card](tasks/P1-1-repo-scaffolding.md) | in_progress | Copilot SDK | 2026-11-21T16:40:23Z | low |
 | P1-2 Compose dev environment | [card](tasks/P1-2-compose-dev-environment.md) | ready (after P1-1) | | | low |
 | P1-3 CI + docs-check | [card](tasks/P1-3-ci-workflows.md) | ready (after P1-1) | | | med |
 | P1-4 Config, error, observability | [card](tasks/P1-4-config-error-observability.md) | ready (after P1-1) | | | med |

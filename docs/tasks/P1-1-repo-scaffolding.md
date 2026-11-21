@@ -2,15 +2,15 @@
 id: P1-1
 title: Repository scaffolding (backend and frontend skeletons)
 type: chore
-status: ready
+status: in_progress
 risk: low
 phase: 1
 depends_on: []
 rules: []
 adrs: [0001, 0005, 0007]
-owner:
-claimed_at:
-branch:
+owner: Copilot SDK
+claimed_at: 2026-11-21T16:40:23Z
+branch: chore/P1-1-repo-scaffolding
 blocked_reason:
 reviewer:
 ---
